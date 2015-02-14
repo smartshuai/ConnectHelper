@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConnectHelper</string>
+    <string name="title_section1">Upload</string>
+    <string name="title_section2">Download</string>
+    <string name="title_section3">QRCode</string>
+    <string name="title_section4">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_title">Notice</string>
+    <string name="dialog_upload">Uploading,please wait</string>
+    <string name="dialog_download">Downloading,please wait</string>
+    
+    
+    <string name="upload_completed">upload completed</string>
+    <string name="upload_error">upload error</string>
+    
+    <string name="download_completed">download completed</string>
+    <string name="download_error">download error</string>
+    
+    <string name="ble_not_supported">BLE not supported</string>
+    
+    <string name="menu_settings">Settings</string>
+    
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+</resources>
